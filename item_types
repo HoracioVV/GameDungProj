@@ -1,0 +1,13 @@
+weapon,sword,10,0,1
+weapon,dagger,5,0,1
+weapon,knife,3,0,1
+weapon,hammer,5,0,1
+weapon,sledge,7,0,1
+weapon,war-hammer,11,0,1
+weapon,mace,12,0,1
+weapon,bow,6,0,1
+weapon,crossbow,10,0,1
+armor,helm,0,5,1
+armor,guantlet,0,2,1
+armor,breastplate,0,10,2
+armor,leggings,0,7,3
